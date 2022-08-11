@@ -10,4 +10,4 @@ cd tldl
 
 pip install -r requirements.txt
 
-python3 tldl.py <username>
+python3 tldl.py username
